@@ -13,14 +13,7 @@ This repository encompasses various aspects of Data Science and Python programmi
 **Object-Oriented Python:** Understanding and implementation of object-oriented programming concepts.
 **NumPy Fundamentals:** Exploring NumPy library for numerical computing in Python.
 **Data Visualization:** Techniques for visualizing data using libraries like Matplotlib and Seaborn.
-**Data Cleaning and Analysis:** Methods for cleaning and preparing data for analysis.
-**Probability and Statistics:** Basic principles of probability and statistical analysis.
-**SQL Concepts:** Working with data sources using SQL queries.
-**Hypothesis Testing:** Understanding and conducting hypothesis tests for data analysis.
-**Machine Learning Fundamentals:** Introduction to machine learning concepts and algorithms.
-**Linear Algebra and Linear Regression:** Basics of linear algebra and implementation of linear regression models.
-**Decision Trees:** Understanding and building decision tree models for classification tasks.
-**Deep Learning Fundamentals:** Introduction to deep learning concepts and neural networks.
+
 
 # Future Contributions
 As I continue my journey in Data Science, I aspire to contribute significantly to the Data Science and Artificial Intelligence community. I aim to leverage the knowledge and skills gained from this repository to create new projects and collaborate with like-minded individuals on innovative initiatives.
